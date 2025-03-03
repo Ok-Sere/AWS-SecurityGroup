@@ -25,7 +25,7 @@ Lets test accessibility to the website using the public IP address above.
 
 > RESULT 
 
-![RESULT](./img/5.%20result.png)
+![Result](./img/5.%20rESULT.png)
 
 I entered the public address into a web browser, and through this rue we're able to access the website.
 
@@ -54,7 +54,7 @@ This is because NACLs are stateless, they do not automatically allow return traf
 
 > RESULT
 
-![RESULT](./img/5.%20result.png)
+![Result](./img/5.%20rESULT.png)
 
 > Project Reflection 
 
